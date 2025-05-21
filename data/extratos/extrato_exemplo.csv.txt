@@ -1,0 +1,6 @@
+date,title,categoria,amount
+2025-05-01,Supermercado,Alimentação,-150.75
+2025-05-02,Uber,Transporte,-23.50
+2025-05-03,Cinema,Lazer,-45.00
+2025-05-04,Salário,Receita,3000.00
+2025-05-05,Restaurante,Alimentação,-80.20
